@@ -1,4 +1,5 @@
 git init
+git status
 git add .
 git add file name
 git rm --cached file name
@@ -8,3 +9,9 @@ git remote -v
 git remote add origin https://github.com/muhammadhafeez182607/gitfolder.git
 git remote set-url origin https://ghp_omV8DYudk6pO8JKh9ryJvn1QqGLHZB33ZQ...
 git push origin master     
+fork github-for-devops-workshop for copy a every public repository
+clone krnai kay liya cose per click krna hai copy link and paste in local 
+git clone link
+push code with ssh key
+git pull origin master
+this is new filw
