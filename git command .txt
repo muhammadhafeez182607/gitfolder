@@ -14,4 +14,3 @@ clone krnai kay liya cose per click krna hai copy link and paste in local
 git clone link
 push code with ssh key
 git pull origin master
-this is new filw
