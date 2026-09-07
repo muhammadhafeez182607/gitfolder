@@ -14,3 +14,10 @@ clone krnai kay liya cose per click krna hai copy link and paste in local
 git clone link
 push code with ssh key
 git pull origin master
+git branch name
+git branch
+git switch branch name
+git log 
+git log --oneline
+git say pull request create kr kay branch ko merge kr sakty hai 
+git merge
