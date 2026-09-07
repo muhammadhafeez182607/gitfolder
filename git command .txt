@@ -8,4 +8,3 @@ git remote -v
 git remote add origin https://github.com/muhammadhafeez182607/gitfolder.git
 git remote set-url origin https://ghp_omV8DYudk6pO8JKh9ryJvn1QqGLHZB33ZQ...
 git push origin master     
-this is new file
